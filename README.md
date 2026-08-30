@@ -1,3 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+NF&size=19&duration=5023&pause=889&color=00F0F7&center=true&vCenter=true&width=435&lines=%EF%8C%9A+Just+A+Operating+System+Developer+And+Designer;%F3%B0%A3%87+Focusing+On+New+Projects+And+Systems)](https://git.io/typing-svg)
-
 
