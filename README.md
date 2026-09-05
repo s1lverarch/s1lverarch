@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="800" height="450" alt="silvercore" src="https://github.com/user-attachments/assets/b3fd8d9d-03dd-40f8-b736-66f97e58a62a" />
+<img width="1200" height="675" alt="5927911" src="https://github.com/user-attachments/assets/1467e8f8-86ad-47f3-a857-b29530e26764" />
 
-# 𝓗𝓮𝓵𝓵𝓸 𝓣𝓱𝓮𝓻𝓮 𝓘𝓶 𝓢𝓲𝓵𝓿𝓮𝓻𝓬𝓸𝓻𝓮 💫
-
+## 𝓗𝓮𝓵𝓵𝓸 𝓣𝓱𝓮𝓻𝓮, 𝓘𝓶 𝓢𝓲𝓵𝓿𝓮𝓻𝓬𝓸𝓻𝓮 💫
+# "𝓣𝓱𝓮 𝓶𝓪𝓰𝓷𝓲𝓯𝓲𝓬𝓮𝓷𝓬𝓮 𝓸𝓯 𝓢𝓲𝓵𝓿𝓮𝓻 𝓻𝓮𝓶𝓪𝓲𝓷𝓼 𝓮𝓼𝓼𝓮𝓷𝓬𝓮."
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Systems+Architect;OS+Designer;Just+a+Dev;Building+tools+that+just+work." alt="Typing SVG" />
 
 <br/>
